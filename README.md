@@ -6,7 +6,7 @@ This project is part of an ongoing collaboration between Clemson University and 
 
 ## Setup and Usage
 
-Coming soon! Right now we are working on a way to get hardware to people, please contact the authors for more information. For now, feel free to explore the hardware designs or even order your own from Macrofab or Circutihub.
+Please note that this is older hardware useful for posterity and documenting ideas. More modern platforms are currently in develop with richer documentation and examples.
 
 ## Contributors
 
